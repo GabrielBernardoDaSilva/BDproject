@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\BDProjeto\Dominio\bin\Release\Dominio.dll
+C:\Users\gabri\source\repos\BDProjeto\Dominio\bin\Release\Dominio.pdb
+C:\Users\gabri\source\repos\BDProjeto\Dominio\obj\Release\Dominio.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\BDProjeto\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BDProjeto\Dominio\obj\Release\Dominio.dll
+C:\Users\gabri\source\repos\BDProjeto\Dominio\obj\Release\Dominio.pdb

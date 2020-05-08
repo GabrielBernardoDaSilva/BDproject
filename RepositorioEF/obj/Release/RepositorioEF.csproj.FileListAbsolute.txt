@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\RepositorioEF.dll.config
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\RepositorioEF.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\RepositorioEF.pdb
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\Dominio.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\EntityFramework.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\Dominio.pdb
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\EntityFramework.xml
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Release\RepositorioEF.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Release\RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Release\RepositorioEF.csproj.CopyComplete
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Release\RepositorioEF.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Release\RepositorioEF.pdb

@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\RepositorioEF.dll.config
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\RepositorioEF.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\RepositorioEF.pdb
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\Dominio.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\Dominio.pdb
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Debug\RepositorioEF.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Debug\RepositorioEF.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Debug\RepositorioEF.csproj.CopyComplete
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Debug\RepositorioEF.dll
+C:\Users\gabri\source\repos\BDProjeto\RepositorioEF\obj\Debug\RepositorioEF.pdb

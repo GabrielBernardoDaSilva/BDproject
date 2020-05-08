@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\bin\Debug\bdProjetoRep.dll
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\bin\Debug\bdProjetoRep.pdb
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\obj\Debug\bdProjetoRep.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\obj\Debug\bdProjetoRep.dll
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\obj\Debug\bdProjetoRep.pdb
+C:\Users\gabri\source\repos\BDProjeto\bdProjetoRep\obj\Debug\bdProjetoRep.csprojAssemblyReference.cache
